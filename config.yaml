@@ -4,10 +4,14 @@ title: jameshruby blog
 theme: hyde-hyde
 
 summarylength: 30
-paginate: 3
+paginate: 7
 enableEmoji: true
 enableRobotsTXT: true
 
+# permalinks:
+    # posts: '/:year/:month/:slug/'
+    # posts: '/:year/:month/:title/'
+   
 params:
   author: jameshruby
   title: jameshruby blog

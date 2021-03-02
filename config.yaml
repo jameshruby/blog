@@ -8,9 +8,10 @@ paginate: 7
 enableEmoji: true
 enableRobotsTXT: true
 
-# permalinks:
-    # posts: '/:year/:month/:slug/'
-    # posts: '/:year/:month/:title/'
+permalinks:
+  posts: '/:title/'
+#     posts: '/:year/:month/:slug/'
+#     posts: '/:year/:month/:title/'
    
 params:
   author: jameshruby
@@ -20,23 +21,28 @@ params:
   authorimage: /img/wolfProfile.png
   favicon: /img/wolfProfile.png
   dateformat: '01/02/2006'
-  themeColor : 'theme-base-j-vs'  
+  themeColor : 'theme-base-j-vs'
   relatedPosts: false
+  postNavigation: false
 
   # social:
       # github: <username>
       # email: your-email@example.com
 menu:
   main:
-    - name: Posts
-      weight: 100
-      identifier: posts
-      url: /posts/
-    - name: About
-      identifier: about
-      weight: 300
-      url: /about/
-    - name: Contact
-      identifier: contact
-      weight: 400
-      url: /contact/
+    - name: Homepage
+      weight: 1
+      identifier: home
+      url: /
+#    - name: Příspěvky
+#      weight: 100
+#      identifier: posts
+#      url: /posts/
+#    - name: About
+#      identifier: about
+#      weight: 300
+#      url: /about/
+#    - name: Contact
+#      identifier: contact
+#      weight: 400
+#      url: /contact/

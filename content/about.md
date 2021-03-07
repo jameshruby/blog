@@ -1,7 +1,8 @@
-+++
-title = "About Hugo"
-date = "2014-04-09"
-+++
+---
+title: "About Hugo"
+date:  2014-04-09
+draft: true
+---
 
 Hugo is a static site engine written in Go.
 

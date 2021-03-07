@@ -5,16 +5,6 @@
     <link>https://jameshruby.github.io/categories/</link>
     <description>Recent content in Categories on jameshruby blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cs-CZ</language>
-    <lastBuildDate>Mon, 22 Feb 2021 18:56:48 +0100</lastBuildDate><atom:link href="https://jameshruby.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Psaní</title>
-      <link>https://jameshruby.github.io/categories/psan%C3%AD/</link>
-      <pubDate>Mon, 22 Feb 2021 18:56:48 +0100</pubDate>
-      
-      <guid>https://jameshruby.github.io/categories/psan%C3%AD/</guid>
-      <description></description>
-    </item>
-    
+    <language>cs-CZ</language><atom:link href="https://jameshruby.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

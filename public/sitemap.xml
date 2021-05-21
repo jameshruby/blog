@@ -2,9 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jameshruby.github.io/categories/</loc>
+    <loc>https://jameshruby.github.io/404-nenalezeno/</loc>
+    <lastmod>2021-02-22T18:56:48+01:00</lastmod>
   </url><url>
     <loc>https://jameshruby.github.io/</loc>
+    <lastmod>2021-02-22T18:56:48+01:00</lastmod>
+  </url><url>
+    <loc>https://jameshruby.github.io/posts/</loc>
+    <lastmod>2021-02-22T18:56:48+01:00</lastmod>
+  </url><url>
+    <loc>https://jameshruby.github.io/categories/</loc>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jameshruby.github.io/categories/pov%C3%ADdky/</loc>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jameshruby.github.io/ve%C4%8Dern%C3%AD%C4%8Dek/</loc>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jameshruby.github.io/plynov%C3%A9-lampy/</loc>
+    <lastmod>2019-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jameshruby.github.io/tags/</loc>
   </url>

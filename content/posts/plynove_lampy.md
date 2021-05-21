@@ -2,8 +2,7 @@
 title: "Plynové Lampy"
 date: 2019-01-12
 draft: false
-categories: ["Psaní"]
-tags: ["Povídky"]
+categories: ["Povídky"]
 ---
 
 *Povídka na motivy fotografií Jiřího Všetečky*

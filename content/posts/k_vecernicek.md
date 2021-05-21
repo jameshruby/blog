@@ -2,8 +2,7 @@
 title: Večerníček
 date: 2019-02-10
 draft: false
-categories: ["Psaní"]
-tags: ["Povídky"]
+categories: ["Povídky"]
 ---
 
 <!-- nikdy jsem neudal kdy se to odehrava, coz je na jednu stranu fajn,

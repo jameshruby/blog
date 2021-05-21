@@ -16,7 +16,7 @@ permalinks:
 params:
   author: jameshruby
   title: jameshruby blog
-  description: ''
+  description: ''  # „Umění není nikdy hotové, pouze odložené“ - Da Vinci
   keywords: 'jameshruby, blog'
   authorimage: /img/penquinProfile.jpg
   favicon: /img/penquinProfile.jpg
@@ -30,10 +30,14 @@ params:
       # email: your-email@example.com
 menu:
   main:
-    - name: Homepage
+    - name: Domů
       weight: 1
       identifier: home
       url: /
+    - name: Kategorie
+      weight: 100
+      identifier: categories
+      url: /categories
 #    - name: Příspěvky
 #      weight: 100
 #      identifier: posts

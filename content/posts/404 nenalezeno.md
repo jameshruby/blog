@@ -2,7 +2,7 @@
 title: "404 Nenalezeno"
 date:  2021-02-22T18:56:48+01:00
 draft: false
-categories: ["Psaní"]
+categories: [""]
 ---
 
 Nic tu není,ale něco to bude.

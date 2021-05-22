@@ -29,7 +29,7 @@ Oba ztratili majetek a děti.
 Pro ni je tato ztrata asi horší, a on je v v příliš velké bolesti na to, aby ji mohl být oporou.
 On trpí nemocí, kterou ale ona nemůže sdílet. 
 
-> „jeho žena mu řekla: Ty se stále držíš své **bezúhonnosti**?
+> „jeho žena mu řekla: Ty se stále držíš své **bezúhonnosti**? 
 > **Zlořeč** Bohu a zemři!” 
 > [Job‬ ‭2:9](https://my.bible.com/bible/509/JOB.2.9)
 

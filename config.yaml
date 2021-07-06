@@ -19,7 +19,7 @@ params:
   description: ''  # „Umění není nikdy hotové, pouze odložené“ - Da Vinci
   keywords: 'jameshruby, blog'
   authorimage: /img/penquinProfile.jpg
-  favicon: /img/penquinProfile.jpg
+  favicon: /img/penquinProfileFav.png
   dateformat: '01/02/2006'
   themeColor : 'theme-base-j-vs'
   relatedPosts: false

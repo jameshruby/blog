@@ -8,6 +8,8 @@ paginate: 7
 enableEmoji: true
 enableRobotsTXT: true
 
+disqusShortname: jameshruby
+
 permalinks:
   posts: '/:title/'
 #     posts: '/:year/:month/:slug/'
